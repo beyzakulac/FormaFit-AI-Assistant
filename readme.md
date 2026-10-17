@@ -64,9 +64,9 @@ Güvenlik prensipleri gereği API anahtarları kaynak kodda bulunmaz. Projeyi lo
 
 ## 🔗 Bağlantılar
 
-- **Model Kartı (Hugging Face):** [Link Buraya]
-- **GGUF Deposu:** [Link Buraya]
-- **Eğitim Veri Seti:** [Link Buraya]
+- **Model Kartı (Hugging Face):** (https://huggingface.co/beyzakulac/FormaFit-Asistan-3B)]
+- **GGUF Deposu:** https://huggingface.co/beyzakulac/FormaFit-Asistan-3B-GGUF
+- **Eğitim Veri Seti:** (https://huggingface.co/beyzakulac/FormaFit-Asistan-3B)
 
 ---
 
